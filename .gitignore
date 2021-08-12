@@ -10,7 +10,7 @@ report.xml
 !default.mode2v3
 *.perspectivev3
 !default.perspectivev3
-xcuserdata
+*xcuserdata
 *.moved-aside
 DerivedData
 .idea/
@@ -18,6 +18,7 @@ DerivedData
 *.xccheckout
 *.xcworkspace
 !default.xcworkspace
+
 #CocoaPods
 Pods
 Podfile.lock
